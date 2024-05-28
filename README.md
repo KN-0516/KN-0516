@@ -23,7 +23,7 @@ Configurations for setting up monitoring and alerting using Amazon CloudWatch, A
 I am currently focused on transitioning to an SRE role where I can leverage my skills in automation, monitoring, and cloud infrastructure to improve system reliability and scalability.
 
 ## Connect with Me
-- [X](https://twitter.com/yourusername)
+- [X](https://twitter.com/kintsuba_kinako)
 
 ## Interests
 I am a keyboard enthusiast, and I am currently using the keyball61, a split keyboard with a trackball. I am also interested in keycaps and switches, and I enjoy trying out new ones.
